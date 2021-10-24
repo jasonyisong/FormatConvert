@@ -17,4 +17,4 @@ tabconv -v -i <file.ext> -o <file.ext>
                               
 <.ext> will be one of [.html | .md | .csv | .json | .txt | .tex]
   
-$ tabconv -i table.json -o table.html (convert JSON table to <table>)
+$ tabconv -i table.json -o table.html (convert JSON table to html tag table )
