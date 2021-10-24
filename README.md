@@ -10,6 +10,7 @@ This app will provide funcConality to convert between different markup formats f
         
 Command-line interface:
 
+$$
 tabconv -v -i <file.ext> -o <file.ext>
         -v, —verbose                    Verbose mode (debugging output to STDOUT)
         -o <file>, —output=<file>       Output file specified by <file>
@@ -20,3 +21,4 @@ tabconv -v -i <file.ext> -o <file.ext>
 <.ext> will be one of [.html | .md | .csv | .json | .txt | .tex]
   
 $ tabconv -i table.json -o table.html (convert JSON table to html tag table )
+$$
