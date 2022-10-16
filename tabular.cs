@@ -5,11 +5,13 @@
 // add the .txt and .tex convert method update by Yi Song 2021/10/6
 
 using System;
+/*
 using System.Data;
 using System.Text;
 using System.Linq;
 using System.IO;
 using System.Net;
+*/
 
 // set a array 1D that read from file, and get the array 2D row and column number
 public class arrayColRowNumber
